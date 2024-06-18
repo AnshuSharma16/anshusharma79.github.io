@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/janshu-sharma16/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/anshu-sharma16/" target="_blank" rel="noreferrer">Anshu</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻</h2>
 
@@ -12,25 +12,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Anshu Sharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Anshu | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/>
   </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/ISTQB.png" alt="Anshu | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-cp.png" alt="Anshu | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-dev.png" alt="Anshu | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-sa.png" alt="Anshu | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/ocpjp.png" alt="Anshu | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/safe.png" alt="Anshu | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/csm.webp" alt="Anshu | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
