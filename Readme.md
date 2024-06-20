@@ -24,7 +24,7 @@
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/Admin.png" alt="Anshu | Admin" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/Admin.PNG" alt="Anshu | Admin" width="100 px"/>
   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-dev.png" alt="Anshu | AWS-DEV" width="100 px"/>
   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-sa.png" alt="Anshu | AWS-SA" width="100 px"/>
    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/ocpjp.png" alt="Anshu | AWS-SA" width="100 px"/>
