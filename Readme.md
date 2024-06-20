@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/jatinshharma//">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Anshu Sharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
+  <a href="https://www.instagram.com/ansh_1616/">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Anshu | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
+  <a href="https://wa.me/8968377979">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/>
   </a>
 </p>
