@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshu-sharma16/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.linkedin.com/in/anshu-sharma16/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm Anshu <a href="https://www.linkedin.com/in/anshu-sharma16/" target="_blank" rel="noreferrer">Anshu Sharma</a> 👋</h3>
+<h3 align="center">Hi there, I'm<a href="https://www.linkedin.com/in/anshu-sharma16/" target="_blank" rel="noreferrer">Anshu Sharma</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻</h2>
 
