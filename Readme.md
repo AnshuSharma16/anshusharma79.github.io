@@ -11,20 +11,20 @@
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/in/anshu-sharma16/">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Anshu Sharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://www.instagram.com/ansh_1616/">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Anshu | Instagram" width="21px"/>
   </a>
-  <!-- <a href="https://wa.me/8968377979"> -->
-    <!-- <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/> -->
+   <a href="https://wa.me/8968377979"> -->
+     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/>
   </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/Admin.PNG" alt="Anshu | Admin" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io-main/images/Admin.png" alt="Anshu | Admin" width="100 px"/>
   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-dev.png" alt="Anshu | AWS-DEV" width="100 px"/>
   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-sa.png" alt="Anshu | AWS-SA" width="100 px"/>
    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/ocpjp.png" alt="Anshu | AWS-SA" width="100 px"/>
