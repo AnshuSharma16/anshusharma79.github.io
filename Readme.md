@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/anshu-sharma16/" target="_blank" rel="noreferrer">Anshu</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/anshu-sharma16/" target="_blank" rel="noreferrer">Anshu Sharma</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻</h2>
 
