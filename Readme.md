@@ -80,11 +80,11 @@ in test coverage</b>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Accelq-3776AB?style=for-the-badge&logo=accelq&logoColor=white" alt="Accelq">
-  <img src="https://img.shields.io/badge/nCino-F7DF1E?style=for-the-badge&logo=nCino&logoColor=black" alt="nCino">
+  <img src="https://img.shields.io/badge/nCino-F7DF1E?style=for-the-badge&logo=nCino&logoColor=black" alt="nCinon">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache%20jmeter&logoColor=white" alt="JMeter">
+  <img src="https://img.shields.io/badge/Salesforce-D22128?style=for-the-badge&logo=apache%20Salesforce&logoColor=white" alt="Salesforce">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
