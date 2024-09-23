@@ -28,11 +28,8 @@
   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/Administrator.jpg" alt="Anshu | Administrator" width="100 px"/>
   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/Associate.png" alt="Anshu | Associate" width="100 px"/>
   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/Ncino.png" alt="Anshu | Ncino" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-dev.png" alt="Anshu | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/aws-sa.png" alt="Anshu | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/ocpjp.png" alt="Anshu | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/safe.png" alt="Anshu | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/csm.webp" alt="Anshu | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/CPQ.png" alt="Anshu | CPQ" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/Accelq.jpg" alt="Anshu | Accelq" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
