@@ -12,13 +12,13 @@
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/in/anshu-sharma16//">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Anshu Sharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
+  <a href="https://instagram.com/ansh_1616">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Anshu | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
+  <a href="https://api.whatsapp.com/send?phone=918968377979">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/>
   </a>
 </p>
@@ -45,7 +45,7 @@
 
 ## 🌱 I'm currently learning
 
-- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
+- I am currently exploring the world of Cloud especially AWS Services and Salesforce that can be used to improve the Automation Testing Process for products. 
 
 
 ## 🥇 Achievements
