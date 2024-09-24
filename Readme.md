@@ -64,7 +64,7 @@ in test coverage</b>
 
 
 ## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+/*[![Test Automation Framework Video](https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)*
 
 ## 💻 My Projects 
 
@@ -85,9 +85,7 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Salesforce-D22128?style=for-the-badge&logo=apache%20Salesforce&logoColor=white" alt="Salesforce">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
@@ -102,14 +100,14 @@ in test coverage</b>
 <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:anshusharma20109@gmail.com">anshusharma20109@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/anshu-sharma16//">
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Anshu Sharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://instagram.com/ansh_1616">
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Anshu | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://api.whatsapp.com/send?phone=918968377979">
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/>
   </a>
 </p>
   
