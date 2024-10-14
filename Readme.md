@@ -62,19 +62,6 @@ coverage </b>
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
 
-
-?* ## 💻 Framework WalkThrough
-/*[![Test Automation Framework Video](https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)*
-
-## 💻 My Projects 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anshusharma79&repo=AutomationFramework)](https://github.com/AnshuSharma16AutomationFramework)
-
-[Automated Regression Testing Framework Java](https://github.com/AnshuSharma16): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
-
-[Automated Regression Testing Framework Python](https://github.com/AnshuSharma16): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python. */
-
-
 ## 💼 Technical Skills
 
 <p align="center">
@@ -89,11 +76,6 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
-
-/* ## 📈 GitHub Stats */
-
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=anshusharma79)](https://github.com/anshusharma79)
-
 
 ## Contact
 
