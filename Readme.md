@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/anshu-sharma16//">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Anshu Sharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/ansh_1616">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/instagram.svg" alt="Anshu | Instagram" width="21px"/>
+  <a href="https://gmail.com/anshusharma20109@gmail.com">
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/gmail.png" alt="Anshu | Instagram" width="21px"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=918968377979">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/>
@@ -67,7 +67,7 @@ in test coverage</b>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Accelq-3776AB?style=for-the-badge&logo=accelq&logoColor=white" alt="Accelq">
-  <img src="https://img.shields.io/badge/nCino-F7DF1E?style=for-the-badge&logo=nCino&logoColor=black" alt="nCinon">
+  <img src="https://img.shields.io/badge/nCino-F7DF1E?style=for-the-badge&logo=nCino&logoColor=black" alt="nCino">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
