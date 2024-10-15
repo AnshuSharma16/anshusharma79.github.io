@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/anshu-sharma16//">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/linkedin.svg" alt="Anshu Sharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://gmail.com/anshusharma20109@gmail.com">
-    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/gmail.png" alt="Anshu | Instagram" width="21px"/>
+  <a href="https://mail.google.com/anshusharma20109@gmail.com">
+    <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/gmail.png" alt="Anshu | Gmail" width="23px"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=918968377979">
     <img src="https://raw.githubusercontent.com/AnshuSharma16/anshusharma79.github.io/main/images/whatsapp.png" alt="Anshu | Whatsapp" width="21px"/>
